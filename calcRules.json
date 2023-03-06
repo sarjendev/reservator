@@ -1,6 +1,11 @@
-person = {
-    roomPrice: 433.23,
-    perHeadChild: 12.07,
-    perHeadAdult: 42.07,
-    tax: 0.12,
-};
+[
+    {
+    "roomPrice": 133.42,
+    "headPerChild": 43.11,
+    "headPerAdult": 11.31,
+    "tgst": 0.16,
+    "serviceCharge": 0.14,
+    "travelCharge": 0.32,
+    },
+
+]

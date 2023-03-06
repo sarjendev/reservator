@@ -1,0 +1,6 @@
+person = {
+    roomPrice: 433.23,
+    perHeadChild: 12.07,
+    perHeadAdult: 42.07,
+    tax: 0.12,
+};
